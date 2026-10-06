@@ -1,0 +1,20 @@
+[
+    {
+        "nim": "023",
+        "nama": "reja",
+        "mata_kuliah": "matdis",
+        "nilai": 100.0
+    },
+    {
+        "nim": "999",
+        "nama": "ical",
+        "mata_kuliah": "ksi",
+        "nilai": 90.0
+    },
+    {
+        "nim": "1213",
+        "nama": "asep",
+        "mata_kuliah": "inggris",
+        "nilai": 40.0
+    }
+]
